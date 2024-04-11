@@ -24,3 +24,6 @@ HUGGINGFACEHUB_API_TOKEN="hf_....."<br>
 2. Go to the root folder of the project and create a Python environment with conda with <code>conda env create -f appl-embedding-visualizer.yml</code><br>
 NB: The name of the environment is appl-embedding-visualizer by default. It can be changed to a name of your choice in the first line of the file appl-embedding-visualizer.yml
 3. Activate this environment with <code>conda activate appl-embedding-visualizer</code>
+
+### Run the application
+within the activated conda environment, type <code>python tsne.py</code>
