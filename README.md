@@ -18,3 +18,9 @@ Enter your Hugging Face API key in the ".env" file :<br>
 HUGGINGFACEHUB_API_TOKEN="hf_....."<br>
 * If you don't have an Hugging Face API key yet, you can register at https://huggingface.co/join
 * When registered and logged in, you can get your API key in your Hugging Face profile settings
+  
+### Conda virtual environment setup
+1. Open an Anaconda prompt or other command prompt
+2. Go to the root folder of the project and create a Python environment with conda with <code>conda env create -f appl-embedding-visualizer.yml</code><br>
+NB: The name of the environment is appl-embedding-visualizer by default. It can be changed to a name of your choice in the first line of the file appl-embedding-visualizer.yml
+3. Activate this environment with <code>conda activate appl-embedding-visualizer</code>
