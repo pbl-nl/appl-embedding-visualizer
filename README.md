@@ -1,5 +1,6 @@
 # appl-embedding-visualizer
 Interactive visualization of text embeddings
+![tsne-2](https://github.com/pbl-nl/appl-embedding-visualizer/assets/7226328/bd0bef83-692c-43e1-a5a1-7117894b85ff)
 
 ## How to use this repo
 ! This repo is tested on a Windows platform
